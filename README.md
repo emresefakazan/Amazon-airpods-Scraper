@@ -1,4 +1,4 @@
-# Amazon AirPods Price Scraper 💻📦
+# E-Commerce Product Price Scraper 💻📦
 
 This project demonstrates how to scrape product prices (AirPods) from **Amazon Turkey** using **Selenium** with **undetected-chromedriver** and **BeautifulSoup**.  
 It automatically navigates through multiple pages by clicking the **"Sonraki" (Next)** button until the last page is reached.
